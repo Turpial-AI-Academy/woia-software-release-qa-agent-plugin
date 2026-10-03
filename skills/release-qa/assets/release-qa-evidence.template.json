@@ -1,0 +1,35 @@
+{
+  "schema": "com.turpial.release-qa-evidence/v1",
+  "candidate": {
+    "source_identity": "<exact-immutable-candidate-id>",
+    "artifact_identity": null,
+    "start_identity": "<exact-immutable-candidate-id>",
+    "end_identity": "<exact-immutable-candidate-id>",
+    "same_candidate": true
+  },
+  "scope": {
+    "sources": [],
+    "required": [],
+    "conditional": [],
+    "not_applicable": []
+  },
+  "evidence": {
+    "reused_current": [],
+    "executed": [],
+    "stale_or_unverified_rejected": []
+  },
+  "findings": {
+    "required_failures": [],
+    "blockers": [],
+    "non_gating_observations": [],
+    "accepted_exclusions": []
+  },
+  "result": "RELEASE_QA_PASS | RELEASE_QA_FAIL | BLOCKED",
+  "ready_for_security_evaluation": false,
+  "claims_not_made": [
+    "security approval",
+    "release preparation approval",
+    "publication authorization",
+    "deployment approval"
+  ]
+}

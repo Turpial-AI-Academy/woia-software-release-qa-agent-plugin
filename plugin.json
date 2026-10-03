@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "woia-software-release-qa",
+  "version": "0.5.0",
+  "description": "Reusable release-candidate QA capability for validating an immutable candidate against integrated release scope and producing auditable QA evidence.",
+  "author": {
+    "name": "Turpial AI Academy",
+    "url": "https://github.com/Turpial-AI-Academy"
+  },
+  "homepage": "https://github.com/Turpial-AI-Academy/woia-software-release-qa-agent-plugin",
+  "repository": "https://github.com/Turpial-AI-Academy/woia-software-release-qa-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "agent-plugin",
+    "woia",
+    "software",
+    "release-qa"
+  ]
+}
