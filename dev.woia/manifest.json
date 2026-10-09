@@ -1,24 +1,8 @@
 {
   "schema": "dev.woia.provider-manifest/v1",
-  "version": "0.5.1",
+  "version": "0.5.6",
   "authoring_profile": "thin",
   "department": "software",
   "capability": "release-qa",
-  "skill": "release-qa",
-  "source_lineage": {
-    "repository": "Turpial-AI-Academy/release-qa-agent-plugin",
-    "version": "1.0.1",
-    "commit": "a0f75c200d2e25457406cea9743a1d9b88f85b41"
-  },
-  "migrated_portable_paths": [
-    "skills/release-qa/SKILL.md",
-    "skills/release-qa/assets/README.md",
-    "skills/release-qa/assets/release-qa-evidence.template.json",
-    "skills/release-qa/assets/release-qa-report.template.md",
-    "skills/release-qa/references/EVIDENCE_MODEL.md",
-    "skills/release-qa/references/QA_PLAYBOOK.md",
-    "skills/release-qa/references/README.md",
-    "skills/release-qa/references/RELEASE_QA_STANDARD.md",
-    "skills/release-qa/references/SCOPE_MODEL.md"
-  ]
+  "skill": "release-qa"
 }
