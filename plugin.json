@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "woia-software-release-qa",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "description": "Reusable release-candidate QA capability for validating an immutable candidate against integrated release scope and producing auditable QA evidence.",
   "author": {
     "name": "Turpial AI Academy",

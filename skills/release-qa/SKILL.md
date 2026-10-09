@@ -5,7 +5,7 @@ license: MIT
 compatibility: Works across repository types when an exact frozen candidate can be identified and the repository's relevant validation evidence or commands can be inspected.
 metadata:
   author: Turpial AI Academy
-  version: "0.5.6"
+  version: "0.5.7"
 ---
 
 # release-qa
